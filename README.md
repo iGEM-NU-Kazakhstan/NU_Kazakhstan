@@ -1,7 +1,4 @@
 # NU_Kazakhstan
-## For modelling
-MM for NAD 
-Matlab Flux dist should allow to find optimal sugar type
 
 Contribution
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
